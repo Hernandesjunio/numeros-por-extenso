@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img alt="Top Language" src="https://img.shields.io/github/languages/top/hernandesjunio/inteiro-por-extenso?color=3498db&style=for-the-badge">
-  <img alt="Repository Size" src="https://img.shields.io/github/repo-size/hernandesjunio/inteiro-por-extenso?color=3498db&style=for-the-badge">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hernandesjunio/inteiro-por-extenso?color=3498db&style=for-the-badge">   
+  <img alt="Top Language" src="https://img.shields.io/github/languages/top/hernandesjunio/numeros-por-extenso?color=3498db&style=for-the-badge">
+  <img alt="Repository Size" src="https://img.shields.io/github/repo-size/hernandesjunio/numeros-por-extenso?color=3498db&style=for-the-badge">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hernandesjunio/numeros-por-extenso?color=3498db&style=for-the-badge">   
   <a href="https://github.com/hernandesjunio">
     <img alt="Developed by Hernandes Junio" src="https://img.shields.io/badge/Developer-Hernandes-%3498db?color=3498db&style=for-the-badge">
   </a>  
