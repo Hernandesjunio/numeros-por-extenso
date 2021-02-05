@@ -1,0 +1,21 @@
+{
+  "name": "typescript-base",
+  "version": "1.0.0",
+  "description": "Algoritmo para conversão de números inteiros para extenso",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Hernandes Junio",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^26.0.9",
+    "@types/node": "^14.0.27",
+    "git-commit-msg-linter": "^2.4.4",
+    "husky": "^4.2.5",
+    "jest": "^26.2.2",
+    "jest-html-reporter": "^3.3.0",
+    "ts-jest": "^26.1.4",
+    "typescript": "^3.9.7"
+  }
+}
