@@ -24,7 +24,7 @@
  <a href="#arrow_forward-executar">Executar</a> •
  <a href="#hammer_and_wrench-tecnologias">Tecnologias</a> • 
  <a href="#sparkles-funcionalidades">Funcionalidades</a> •
- <a href="#boy-autor">Autor</a> •
+ <a href="#-autor">Autor</a> •
  <a href="#balance_scale-licença">Licença</a>
 </p>
 
