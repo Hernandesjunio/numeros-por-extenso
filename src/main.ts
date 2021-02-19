@@ -182,5 +182,3 @@ function de1ba999999b(numero: number) {
 export function integerToWords(numero: number) {
   return de1ba999999b(numero).trim();
 }
-
-console.log(integerToWords(1297));
